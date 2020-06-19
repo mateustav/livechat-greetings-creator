@@ -1,0 +1,16 @@
+{
+  "name": "livechat-greetings-creator",
+  "version": "1.0.0",
+  "description": "Create LiveChat Greetings in bulk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Tavares",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "dotenv": "^8.2.0"
+  }
+}
